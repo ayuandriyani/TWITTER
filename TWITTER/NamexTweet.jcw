@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>NamexTweet</label>
+	</settings>
+	<users>
+		<user>
+			<path>NamexTweet.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NamexTweet\NamexTweet.jcp</path>
+		</project>
+		<project>
+			<path>NamexTweet.jcp</path>
+		</project>
+	</projects>
+</workspace>
